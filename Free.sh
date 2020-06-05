@@ -15,12 +15,12 @@ echo "\033[0;31m]
 +            ****               +
 + coded by : InYourG00D         +
 + Team : LNX#CREW S.T.C BUFT    +
-+ kontak me : 6281382406878     +
-+                               +
-+  ^...^                 ^...^  +
-+ <_* *_> TransferPulsa <_* *_> +
-+   \_/                   \_/   +
-================================="
++===============================+
+
+   ^...^                 ^...^
+  <_* *_> TransferPulsa <_* *_> 
+    \_/                   \_/ 
+"
 
 echo "\033[0;32m]Masukan Nomer Anda: "
 read anda
